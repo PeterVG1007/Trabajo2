@@ -104,7 +104,7 @@ border-radius: 50%;
 .pag2 {
   background-color: black;
   width: 750px;
-  height: 1100px;
+  height: 900px;
   margin: auto;
 }
   .pag2 div{
@@ -115,7 +115,7 @@ width: 300px;
 height:300px;
 margin: 30px 10px 10px 60px;
 }
-.pag2 table{
+.pag2 div table{
   background-color: yellowgreen;
   display: inline-block;
   width: 135px;
@@ -123,14 +123,14 @@ margin: 30px 10px 10px 60px;
   margin: 5px 5px 5px 5px;
   border-radius: 50%;
 }
-.pag2 u{
+.pag2 ul{
   background-color: red;
   display: inline-block;
   width: 300px;
   height:300px;
   margin: 10px 10px 10px 20px;
 }
-.pag2 ul{
+.pag2 ul h2{
   background-color: yellowgreen;
   display: inline-block;
   width: 135px;
@@ -138,4 +138,905 @@ margin: 30px 10px 10px 60px;
   margin: 5px 5px 5px 5px;
   border-radius: 50%;
   
+}
+.pag2 article{
+  background-color: white;
+  display: inline-block;
+ width: 480px;
+ height: 250px;
+ margin: 20px 20px 20px 140px;
+}
+.pag2 article h4{
+  background-color: aquamarine;
+  display: inline-block;
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  margin: 10px 5px 5px 10px; 
+}
+.pag2 aside {
+  background-color: orange;
+  display: inline-block;
+  width: 140px;
+  height: 240px;
+  margin: 2px 2px 2px 10px;
+}
+.pag2 aside h1{
+  background-color: purple;
+  display: inline-block;
+  width: 100px;
+  height: 210px;
+  border-radius: 75%;
+  margin: 15px 15px 10px 18px;
+}
+.pag2  section{
+  background-color: red;
+  display: inline-block;
+  vertical-align: top;
+  width: 230px;
+  height: 243px;
+  margin:  0px 10px 10px 10px ;
+}
+
+.pag2 section h3{
+background-color: orange;
+display: inline-block;
+width: 90px;
+height: 90px;
+margin:15px 5px 5px 15px;
+border-radius: 50%;
+}
+.pag3{
+  background-color: black;
+  width: 750px;
+  height: 1000px;
+  margin: auto;
+}
+.pag3 nav{
+  background-color: red;
+  display: inline-block;
+  width: 340px;
+  height:280px;
+  margin: 30px 1px 1px 20px;
+}
+
+.pag3 nav div{
+  background-color: purple;
+  display: inline-block;
+  width: 300px;
+  height: 250px;
+  margin: 20px 20px 20px 20px;
+
+}
+.pag3 nav div h1{
+  background-color: cyan;
+  vertical-align: top;
+  display: inline-block;
+  width: 270px;
+  height: 210px;
+  margin: 20px 20px 20px 15px;
+}
+.pag3 nav div h1 section{
+  background-color: brown;
+  display: inline-block;
+  vertical-align: top;
+  width: 80px;
+  height:80px;
+  margin: 15px 3px 3px 3px;
+  border-radius: 50%;
+}
+.pag3 nav div h1 ul{
+  background-color: blue;
+  display: inline-block;
+  vertical-align: top;
+  width: 75px;
+  height:80px;
+  margin: 15px 3px 3px 8px;
+  
+}
+.pag3 a{
+  background-color: orange;
+  display: inline-block;
+  width: 705px;
+  height: 280px;
+  margin: 30px 5px 5px 20px;
+  }
+.pag3 a aside{
+  background-color: cornflowerblue;
+  width: 670px;
+  height: 250px;
+margin: 15px 15px 15px 15px;
+}
+.pag3 a aside li{
+  background-color: burlywood;
+  display: inline-block;
+  width: 230px;
+  height:210px;
+  margin: 20px 1px 1px 20px
+  
+}
+.pag3 a aside li table{
+  background-color: yellow;
+ display: inline-block;
+  width: 90px;
+  height:180px;
+  margin: 15px 1px 1px 15px;
+  border-radius: 50%;
+}
+.pag3 a aside ul{
+  background-color: burlywood;
+  display: inline-block;
+  vertical-align: top;
+   width: 200px;
+   height:210px;
+   margin: 20px 1px 1px 20px
+   
+}.pag3 a aside ul table{
+background-color: yellow;
+vertical-align: top;
+ width: 180px;
+ height:90px;
+ margin: 10px 1px 1px 10px;
+ border-radius: 50%;
+}
+.pag3 a aside section{
+  background-color: burlywood;
+  display: inline-block;
+  vertical-align: top;
+   width: 150px;
+   height:210px;
+   margin: 20px 1px 1px 20px
+}
+.pag3 a aside section h2{
+  background-color: yellow;
+  vertical-align: top;
+   width: 90px;
+   height:90px;
+   margin: 10px 41px 1px 30px;
+   border-radius: 50%;
+}
+.pag3 a  ol{
+  background-color: darkgreen;
+  display: inline-block;
+  width: 620px;
+  height: 200px;
+  margin: 25px 15px 15px 25px;
+}
+.pag3 a  ol h3{
+  background-color: darkgoldenrod;
+  display: inline-block;
+  width: 580px;
+  height: 160px;
+  margin: 20px 15px 15px 20px;
+}
+.pag3 a ol h3 article{
+
+  background-color: rebeccapurple;
+  display: inline-block;
+  width: 105px;
+  height:105px;
+  margin: 30px 1px 1px 5px;
+  border-radius: 50%;
+}
+.pag4 {
+  background-color: gray;
+  width: 800px;
+  height: 900px;
+  margin: auto;
+}
+.pag4 nav {
+background-color: blue;
+display: inline-block;
+vertical-align: top;
+ width: 120px;
+ height:180px;
+ margin: 13px 0px 0px 13px
+}
+.pag4 nav h1{
+background-color: orange;
+
+ width: 70px;
+ height:70px;
+ margin: 13px 1px 1px 25px;
+ border-radius: 50%;
+}
+.pag4 nav h2{
+  background-color: orange;
+  vertical-align: top;
+   width: 70px;
+   height:160px;
+   margin: 10px 41px 1px 25px;
+   border-radius: 50%;
+}
+.pag4 div{
+  background-color: rebeccapurple;
+  display: inline-block;
+  vertical-align: top;
+   width: 85px;
+   height:180px;
+   margin: 13px 0px 0px 13px
+}
+
+.pag4 ul{
+  background-color: paleturquoise;
+  display: inline-block;
+  vertical-align: top;
+  width: 505px;
+  height:240px;
+  margin:15px 0px 0px 15px;
+}
+.pag4 ul article{
+  background-color: wheat;
+  display: inline-block;
+  width: 475px;
+  height:210px;
+  margin:15px 0px 0px 15px;
+}
+.pag4 ul article aside{
+  background-color: gray;
+  display: inline-block;
+  width: 445px;
+  height:180px;
+  margin:15px 0px 0px 15px;
+}
+.pag4 ul article aside h3 {
+  background-color: wheat;
+  display: inline-block;
+   width: 110px;
+   height:140px;
+   margin: 20px 0px 0px 25px;
+}
+.pag4 ul article aside h3 table {
+  background-color: cyan;
+  display: inline-block;
+   width: 80px;
+   height:80px;
+   margin: 25px 0px 0px 15px;
+   border-radius: 50%;
+}
+.pag4 section {
+  background-color: orange;
+  display: inline-block;
+  vertical-align: top;
+  width: 243px;
+  height:240px;
+  margin: 15px 1px 1px 15px;
+}
+.pag4 section h4{
+  background-color: greenyellow;
+  display: inline-block;
+   width: 220px;
+   height:60px;
+   margin: 15px 0px 0px 10px;
+  }
+  .pag4 section h4 table{
+    background-color: orange;
+    display: inline-block;
+    width: 200px;
+    height: 45px;
+    margin: 8px 10px;
+    border-radius: 50%
+  
+  }
+  .pag4 section h5{
+    background-color: blue;
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    height:140px;
+    margin: 5px 0px 0px 12px;
+  }
+  .pag4 section h5 table{
+  background-color: beige;
+  display: inline-block;
+  width: 80px;
+  height: 120px;
+  margin: 10px 10px;
+  border-radius: 50%
+}
+.pag4 section h5 article{
+  background-color: beige;
+  width: 60px;
+  height: 60px;
+  margin: 5px 1px 1px 20px;
+  border-radius: 50%;
+}
+.pag4 section ul{
+background-color: cyan;
+display: inline-block;
+width: 200px;
+height:210px;
+margin: 15px 1px 1px 20px;
+}
+.pag4 section ul h6{
+  background-color: red;
+  width: 150px;
+  height: 80px;
+  margin: 15px 1px 1px 30px;
+}
+.pag4 section ul h6 table{
+  background-color: white;
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  margin: 5px 1px 1px 40px;
+  border-radius: 50%;
+}
+.pag4 section ul a{
+  background-color: gray;
+  display: inline-block;
+  width: 150px;
+  height: 80px;
+  margin: 15px 1px 1px 30px;
+  border-radius: 50%;
+}
+.pag4 section ul main{
+  background-color: purple;
+  display: inline-block;
+  width: 200px;
+  height: 180px;
+  margin: 15px 1px 1px 0px;
+  border-radius: 50%;
+}
+.pag4 article{
+background-color: salmon;
+display: inline-block;
+vertical-align: top;
+width:770px;
+height:160px;
+margin:15px 0px 0px 15px;
+}
+.pag4 article div{
+  background-color: yellow;
+  display: inline-block;
+  width: 125px;
+  height:125px;
+  margin: 20px 0px 0px 20px;
+}
+.pag4 article div table{
+  background-color: green;
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  margin: 20px 1px 1px 17px;
+  border-radius: 50%;
+}
+.pag4 article div h1{
+  background-color: green;
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  margin: 13px 1px 1px 13px;
+  border-radius: 50%;
+}
+
+.pag5{
+  background-color: black;
+  width: 680px;
+  height: 780px;
+  padding: 10px 10px 10px 10px;
+  margin: auto;
+}
+.pag5 main{
+  background-color: cyan;
+  width: 185px;
+  height: 530px;
+  margin: 10px 5px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 main li{
+  background-color: darkblue;
+  width: 60px;
+  height: 80px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 main li div{
+  width: 40px;
+  height: 35px;
+  background-color: yellowgreen;
+  display: inline-block;
+  margin: 0px 10px 10px 10px;
+  border-radius: 50%
+  
+}
+.pag5 main nav{
+  background-color: blueviolet;
+  width: 140px;
+  height: 80px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 main nav li{
+  width: 30px;
+  height: 40px;
+  background-color: red;
+  display: inline-block;
+  margin: 10px 10px 10px 5px;
+  border-radius: 50%;
+  
+}
+.pag5 main section{
+  background-color: orange;
+  width: 140px;
+  height: 130px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag5 main section div{
+  width: 40px;
+  height: 40px;
+  background-color: beige;
+  display: inline-block;
+  margin: 0px 10px 0px 10px;
+  border-radius: 50%;;
+}
+.pag5 main section a{
+  background-color: coral;
+  width: 10px;
+  height: 10px;
+  margin: 0px 10px 10px 50px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag5 main section nav{
+  background-color: crimson;
+  width: 100px;
+  height: 20px;
+  margin: 0px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag5 main h3{
+  background-color: cornsilk;
+  width: 50px;
+  height: 90px;
+  margin: 0px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag5 main h3 li{
+  width: 20px;
+  height: 20px;
+  background-color: chocolate;
+  display: inline-block;
+  margin: 0px 10px 10px 5px;
+  border-radius: 50%;
+}
+
+.pag5 main a{
+  background-color: darkred;
+  width: 40px;
+  height: 80px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 main a ol{
+  width: 30px;
+  height: 30px;
+  background-color: darkolivegreen;
+  display: inline-block;
+  margin: 0px 10px 10px 5px;
+  border-radius: 50%;
+  
+}
+.pag5 main a div{
+  width: 40px;
+  height: 75px;
+  background-color: darkcyan;
+  display: inline-block;
+  margin: 5px 5px 10px 0px;
+  border-radius: 50%
+  
+}
+
+.pag5 footer{
+  background-color: whitesmoke;
+  width: 635px;
+  height: 170px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 footer article{
+  background-color: lawngreen;
+  width: 125px;
+  height: 130px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 footer article li{
+  width: 45px;
+  height: 45px;
+  background-color: plum;
+  display: inline-block;
+  margin: 10px 5px 10px 10px;
+  border-radius: 50%
+  
+}
+.pag5 footer article a{
+  width: 110px;
+  height: 50px;
+  background-color: palegoldenrod;
+  display: inline-block;
+  margin: 0px 10px 0px 10px;
+  border-radius: 50%;
+  
+}
+.pag5 footer section{
+  background-color: powderblue;
+  width: 250px;
+  height: 130px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 footer section li{
+  background-color: pink;
+  width: 210px;
+  height: 90px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 footer section li a{
+  width: 50px;
+  height: 60px;
+  background-color: papayawhip;
+  display: inline-block;
+  margin: 15px 5px 10px 10px;
+  border-radius: 50%
+  
+}
+.pag5 main h3 ol{
+  width: 40px;
+  height: 75px;
+  background-color: palegreen;
+  display: inline-block;
+  margin: 5px 5px 10px 5px;
+  border-radius: 50%
+  
+}
+.pag5 main h4{
+  background-color: black;
+  width: 60px;
+  height: 60px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 main h4 div{
+  width: 55px;
+  height: 55px;
+  background-color: azure;
+  display: inline-block;
+  margin: 5px 0px 10px 5px;
+  border-radius: 50%
+  
+}
+.pag5 main article{
+  background-color: antiquewhite;
+  width: 40px;
+  height: 60px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 main article div{
+  width: 40px;
+  height: 55px;
+  background-color: blueviolet;
+  display: inline-block;
+  margin: 5px 10px 10px 0px;
+  border-radius: 50%
+  
+}
+.pag5 main nav ol{
+  width: 35px;
+  height: 35px;
+  background-color: brown;
+  display: inline-block;
+  margin: 0px 10px 5px 15px;
+  border-radius: 50%
+  
+}
+.pag5 main h5{
+  background-color: blue;
+  width: 140px;
+  height: 100px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 main h5 li{
+  background-color: red;
+  width: 85px;
+  height: 25px;
+  margin: 10px 10px 10px 20px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 main h5 li a{
+  width: 45px;
+  height: 10px;
+  background-color: royalblue;
+  display: inline-block;
+  margin: 0px 10px 5px 10px;
+  border-radius: 50%
+  
+}
+.pag5 main h5 a{
+  width: 20px;
+  height: 20px;
+  background-color: rosybrown;
+  display: inline-block;
+  margin: 0px 10px 10px 50px;
+  border-radius: 50%
+  
+}
+.pag5 main h6{
+  background-color: blueviolet;
+  width: 55px;
+  height: 130px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag5 main h6 a{
+  width: 20px;
+  height: 20px;
+  background-color: brown;
+  display: inline-block;
+  margin: 0px 10px 5px 10px;
+  border-radius: 50%
+  
+}
+.pag5 main h2{
+  background-color: yellowgreen;
+  width: 35px;
+  height: 130px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.pag6{
+  background-color: black;
+  width: 690px;
+  height: 780px;
+  padding: 10px 10px 10px 10px;
+  margin: auto;
+}
+.pag6 section{
+  background-color: royalblue;
+  width: 115px;
+  height: 115px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag6 section li{
+  width: 50px;
+  height: 30px;
+  background-color: burlywood;
+  display: inline-block;
+  margin: 5px 5px 10px 0px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.pag6 section a{
+  background-color: darkgreen;
+  width: 15px;
+  height: 15px;
+  margin: auto -1px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag6 h2{
+  background-color: darkmagenta;
+  width: 320px;
+  height: 110px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag6 h2 div{
+  background-color: magenta;
+  width: 62px;
+  height: 62px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag6 h2 div li{
+  width: 50px;
+  height: 30px;
+  background-color: moccasin;
+  display: inline-block;
+  margin: 5px 10px 10px 5px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.pag6 h3{
+  background-color: mintcream;
+  width: 110px;
+  height: 240px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag6 h3 ol{
+  width: 80px;
+  height: 80px;
+  background-color: mediumturquoise;
+  display: inline-block;
+  margin: 5px 10px 0px 15px;
+  padding: 0px 0px 0px 0px;
+  border-radius: 50%
+}
+.pag6 h3 section{
+  width: 100px;
+  height: 30px;
+  background-color: mediumspringgreen;
+  display: inline-block;
+  margin: 5px 10px 10px 5px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.pag6 h3 article{
+  background-color: mediumpurple;
+  width: 70px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag6 h3 article li{
+  width: 60px;
+  height: 50px;
+  background-color: mediumblue;
+  display: inline-block;
+  margin: 15px 10px 10px 5px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.pag6 h3 div{
+  background-color: violet;
+  width: 70px;
+  height: 60px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag6 h3 div li{
+  width: 60px;
+  height: 40px;
+  background-color: tan;
+  display: inline-block;
+  margin: 0px 10px 10px 5px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.pag6 h3 nav{
+  background-color: turquoise;
+  width: 70px;
+  height: 100px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag6 h3 nav a{
+  width: 45px;
+  height: 20px;
+  background-color: grey;
+  display: inline-block;
+  margin: 0px 10px 10px 5px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.pag6 h4{
+  background-color: firebrick;
+  width: 180px;
+  height: 240px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.pag6 h4 div{
+  width: 170px;
+  height: 170px;
+  background-color: forestgreen;
+  display: inline-block;
+  margin: 30px 10px 10px 5px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.pag6 main{
+  background-color: hotpink;
+  width: 640px;
+  height: 310px;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+
+}
+.pag6 main section nav{
+  width: 50px;
+  height: 30px;
+  background-color: honeydew;
+  display: inline-block;
+  margin: 5px 40px 10px 30px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.pag6 main h4{
+  background-color: red;
+  width: 275px;
+  height: 115px;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+}
+.pag6 main h4 li{
+  background-color: blue;
+  width: 240px;
+  height: 80px;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+}
+.pag6 main h4 li a{
+  width: 60px;
+  height: 40px;
+  background-color: orchid;
+  display: inline-block;
+  margin: 5px 5px 10px 10px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
 }
